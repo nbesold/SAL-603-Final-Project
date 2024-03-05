@@ -1,2 +1,2 @@
-# SAL-603-Final-Project, no topic decided yet will update within next week
-SAL 603 Final Project
+# Underdog Fantasy 'The Dinger' Analysis
+Which roster construction was the most succesful in the 2023 fantasy baseball season?
