@@ -7,7 +7,7 @@ In this tournament, users competed for an $100,000 first place prize against 50,
 
 In Python, I analyzed which types of roster constructions and draft strategies lead to the greatest success in 2023.
 
-Here's the link to the video on Vimeo: https://vimeo.com/921545056/a9635a92f9?share=copy
+Here's the link to my presentation on Vimeo: https://vimeo.com/921545056/a9635a92f9?share=copy
 
 Enjoy!
 
